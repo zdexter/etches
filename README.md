@@ -1,4 +1,4 @@
 etches
 ======
 
-discrete, interesting things
+discrete, interesting things from algorithms, data structures, grammars and languages
